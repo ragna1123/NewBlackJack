@@ -1,0 +1,3 @@
+class Initalize
+  
+end
