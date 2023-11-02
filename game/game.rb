@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require './player/player'
 class Game
   def initialize
